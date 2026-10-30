@@ -1,0 +1,5 @@
+Cluster,Gap × variable units,Share of lags with |lag| ≤ 2 samples,Max |lag| (samples),"k-NN coverage of gap points, median","Fourier − linear, RMS (z), median (max)","Stitching correction, RMS (z), median","FLk-NN − linear, RMS (z), median","R² of straight line to FLk-NN − Fourier, median","Roughness ratio, median"
+1,3060,21%,1529,100.0%,1.99e-04 (0.0346),0.0316,0.0568,0.163,2.21
+2,300,100%,0,0.0%,1.02e-04 (0.00361),2.36e-04,3.09e-04,1.000,0.00894
+3,300,94%,3,0.3%,7.72e-04 (0.0483),0.247,0.248,1.000,0.504
+4,540,100%,2,0.5%,8.87e-04 (0.00594),0.0865,0.087,1.000,0.0919

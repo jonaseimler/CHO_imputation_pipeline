@@ -1,0 +1,6 @@
+Subset,Gaps,Median r (Hankel − linear vs. truth − linear),Share of gaps with r > 0,Periodic truth (gaps),Hankel also periodic (gaps),"Period error, median","Amplitude ratio Hankel / truth, median"
+all gaps,600,0.59,84%,232,79,3.4%,0.42
+phase: early,166,0.73,95%,101,59,2.9%,0.68
+phase: exponential,132,0.52,81%,61,13,4.3%,0.42
+phase: stationary/decline,302,0.50,78%,70,7,15.5%,0.26
+gaps with periodic truth,232,0.59,89%,232,79,3.4%,0.40

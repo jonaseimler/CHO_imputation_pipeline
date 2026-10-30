@@ -1,0 +1,31 @@
+feature,cluster
+Temperature(°C) [CO2],1
+Temperature(°C) [TCD],1
+Temperature(°C) [VCD],1
+C(1118kHz) [VCD],2
+C(1392kHz) [VCD],2
+C(1729kHz) [VCD],2
+C(2155kHz) [VCD],2
+C(2689kHz) [VCD],2
+C(300kHz) [VCD],2
+C(3347kHz) [VCD],2
+C(374kHz) [VCD],2
+C(4158kHz) [VCD],2
+C(466kHz) [VCD],2
+C(5188kHz) [VCD],2
+C(580kHz) [VCD],2
+C(6447kHz) [VCD],2
+C(720kHz) [VCD],2
+C(8030kHz) [VCD],2
+C(896kHz) [VCD],2
+C(9995kHz) [VCD],2
+Cell Density(pF/cm) [VCD],2
+DeltaEps(pF/cm) [VCD],2
+Permittivity(pF/cm) [VCD],2
+Reflection(arb. Unit) [TCD],2
+TCD(AU) [TCD],2
+Transmission(arb. Unit) [TCD],2
+Conductivity(mS/cm) [VCD],3
+fc(kHz) [VCD],3
+Alpha [VCD],4
+CO2(%-sat) [CO2],4

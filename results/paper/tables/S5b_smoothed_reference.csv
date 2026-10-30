@@ -1,0 +1,17 @@
+Stratum,Metric,Best method (raw reference),Best method (smoothed reference),Spearman rho of method medians,Pairs with same direction,Clear pairs (raw),Clear pairs (smoothed),Clear pairs reversed
+Cluster 1,NRMSE,Smoothed Linear Baseline,Smoothed Linear Baseline,1.00,13/15,11,11,0
+Cluster 2,NRMSE,Linear Baseline,Linear Baseline,0.94,15/15,9,9,0
+Cluster 3,NRMSE,Hankel,Hankel,0.94,15/15,13,13,0
+Cluster 4,NRMSE,Linear Baseline,Linear Baseline,1.00,15/15,5,2,0
+Cluster 1,NDTW,Spline Baseline,Smoothed Linear Baseline,0.66,10/15,10,11,1
+Cluster 2,NDTW,Spline Baseline,FLk-NN,0.77,11/15,14,5,0
+Cluster 3,NDTW,Hankel,Hankel,0.60,11/15,6,7,1
+Cluster 4,NDTW,Spline Baseline,Spline Baseline,0.89,15/15,11,11,0
+Cluster 1,FSD,Linear Baseline,Smoothed Linear Baseline,0.94,14/15,10,12,0
+Cluster 2,FSD,Linear Baseline,Linear Baseline,0.54,11/15,1,1,0
+Cluster 3,FSD,Hankel,Hankel,1.00,13/15,5,10,0
+Cluster 4,FSD,Spline Baseline,Spline Baseline,0.94,14/15,9,10,0
+Cluster 1,MAD of correlations,Spline Baseline,Smoothed Spline Baseline,0.49,13/15,6,11,0
+Cluster 2,MAD of correlations,Hankel,Hankel,0.94,15/15,11,11,0
+Cluster 3,MAD of correlations,Hankel,Hankel,1.00,15/15,12,13,0
+Cluster 4,MAD of correlations,Hankel,Hankel,1.00,14/15,11,11,0

@@ -1,0 +1,31 @@
+Cluster,Variables,Variable set,Runs,Method,Median mean |r| (true),Median mean |r| (reconstruction),Share with |r| = 1,Share with undefined r (reconstruction)
+1,5,reduced (no capacitance spectrum),"EXP001 R02, EXP002 R02",FLk-NN,0.55,0.45,0%,0%
+1,5,reduced (no capacitance spectrum),"EXP001 R02, EXP002 R02",Hankel,0.55,0.91,14%,0%
+1,5,reduced (no capacitance spectrum),"EXP001 R02, EXP002 R02",Linear Baseline,0.55,1.00,84%,16%
+1,5,reduced (no capacitance spectrum),"EXP001 R02, EXP002 R02",Smoothed Linear Baseline,0.55,1.00,84%,16%
+1,5,reduced (no capacitance spectrum),"EXP001 R02, EXP002 R02",Spline Baseline,0.55,0.94,12%,16%
+1,5,reduced (no capacitance spectrum),"EXP001 R02, EXP002 R02",Smoothed Spline Baseline,0.55,0.98,1%,16%
+1,23,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",FLk-NN,0.78,0.55,0%,0%
+1,23,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",Hankel,0.78,0.95,8%,0%
+1,23,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",Linear Baseline,0.78,1.00,97%,3%
+1,23,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",Smoothed Linear Baseline,0.78,1.00,97%,3%
+1,23,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",Spline Baseline,0.78,0.95,10%,3%
+1,23,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",Smoothed Spline Baseline,0.78,0.99,0%,3%
+2,2,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",FLk-NN,0.42,1.00,95%,0%
+2,2,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",Hankel,0.42,0.99,34%,0%
+2,2,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",Linear Baseline,0.42,1.00,100%,0%
+2,2,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",Smoothed Linear Baseline,0.42,1.00,100%,0%
+2,2,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",Spline Baseline,0.42,0.98,36%,0%
+2,2,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",Smoothed Spline Baseline,0.42,0.98,8%,0%
+3,2,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",FLk-NN,0.33,0.96,2%,0%
+3,2,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",Hankel,0.33,0.89,6%,0%
+3,2,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",Linear Baseline,0.33,1.00,100%,0%
+3,2,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",Smoothed Linear Baseline,0.33,1.00,100%,0%
+3,2,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",Spline Baseline,0.33,0.91,22%,0%
+3,2,complete,"EXP001 R01, EXP002 R01, EXP004 R01, EXP004 R02",Smoothed Spline Baseline,0.33,0.97,11%,0%
+4,3,complete,"EXP001 R01, EXP001 R02, EXP002 R01, EXP002 R02, EXP004 R01, EXP004 R02",FLk-NN,0.95,1.00,50%,0%
+4,3,complete,"EXP001 R01, EXP001 R02, EXP002 R01, EXP002 R02, EXP004 R01, EXP004 R02",Hankel,0.95,1.00,25%,0%
+4,3,complete,"EXP001 R01, EXP001 R02, EXP002 R01, EXP002 R02, EXP004 R01, EXP004 R02",Linear Baseline,0.95,1.00,88%,9%
+4,3,complete,"EXP001 R01, EXP001 R02, EXP002 R01, EXP002 R02, EXP004 R01, EXP004 R02",Smoothed Linear Baseline,0.95,1.00,98%,2%
+4,3,complete,"EXP001 R01, EXP001 R02, EXP002 R01, EXP002 R02, EXP004 R01, EXP004 R02",Spline Baseline,0.95,0.94,38%,9%
+4,3,complete,"EXP001 R01, EXP001 R02, EXP002 R01, EXP002 R02, EXP004 R01, EXP004 R02",Smoothed Spline Baseline,0.95,0.99,29%,2%

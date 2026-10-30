@@ -1,0 +1,7 @@
+Method,1 gap(s),2 gap(s),3 gap(s),4 gap(s),"All, median (min–max)"
+Linear Baseline,0.094,0.0935,0.0955,0.093,0.094 (0.075–0.216)
+Smoothed Linear Baseline,0.307,0.327,0.348,0.364,0.344 (0.281–0.54)
+Spline Baseline,0.14,0.141,0.141,0.139,0.14 (0.113–0.307)
+Smoothed Spline Baseline,0.35,0.365,0.385,0.398,0.379 (0.33–0.595)
+FLk-NN,17.7,30.8,50,65.5,24 (1.1–99.7)
+Hankel,34,113,191,333,114 (4.01–1.54e+03)

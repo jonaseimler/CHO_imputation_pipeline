@@ -1,0 +1,25 @@
+Cluster,Method,Median noise floor,Median NRMSE,Median NRMSE (smoothed ref.),NRMSE / noise floor
+1,FLk-NN,0.00502,0.0671,0.0648,10.6
+1,Hankel,0.00502,0.0232,0.0194,3.39
+1,Linear Baseline,0.00502,0.0192,0.0159,2.74
+1,Smoothed Linear Baseline,0.00502,0.0195,0.0158,2.81
+1,Spline Baseline,0.00502,0.0293,0.0267,4.64
+1,Smoothed Spline Baseline,0.00502,0.0234,0.0204,3.61
+2,FLk-NN,0.00438,0.0309,0.0277,4.29
+2,Hankel,0.00438,0.0413,0.0365,6.13
+2,Linear Baseline,0.00438,0.0307,0.0276,4.28
+2,Smoothed Linear Baseline,0.00438,0.0314,0.0281,4.38
+2,Spline Baseline,0.00438,0.0348,0.0311,5.04
+2,Smoothed Spline Baseline,0.00438,0.0316,0.028,4.89
+3,FLk-NN,0.0309,0.28,0.265,8.3
+3,Hankel,0.0309,0.0847,0.0685,2.3
+3,Linear Baseline,0.0309,0.0937,0.0795,2.55
+3,Smoothed Linear Baseline,0.0309,0.0897,0.0743,2.46
+3,Spline Baseline,0.0309,0.107,0.096,3.4
+3,Smoothed Spline Baseline,0.0309,0.0966,0.0839,2.76
+4,FLk-NN,0.0744,0.595,0.571,7.5
+4,Hankel,0.0744,0.622,0.602,7.96
+4,Linear Baseline,0.0744,0.577,0.556,7.21
+4,Smoothed Linear Baseline,0.0744,0.608,0.582,7.52
+4,Spline Baseline,0.0744,0.586,0.567,7.27
+4,Smoothed Spline Baseline,0.0744,0.6,0.574,7.47

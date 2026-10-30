@@ -1,0 +1,37 @@
+Metric,Breakdown,Level,"Linear Baseline, median",Median difference Hankel − Linear,Relative difference,Share of units with Hankel better,Units
+NRMSE,Variable,Cole–Cole α,0.101,2.37e-04,+0.2%,49%,400
+NRMSE,Variable,Dissolved CO2 (%-sat),0.0827,-0.00697,-8.4%,76%,600
+NRMSE,Experiment,EXP001,0.0909,-0.00552,-6.1%,76%,200
+NRMSE,Experiment,EXP002,0.104,-0.00568,-5.4%,74%,200
+NRMSE,Experiment,EXP004,0.0849,-0.00602,-7.1%,66%,200
+NRMSE,Gap duration,3–6 h,0.0841,-0.00361,-4.3%,70%,138
+NRMSE,Gap duration,6–9 h,0.088,-0.0068,-7.7%,73%,171
+NRMSE,Gap duration,9–12 h,0.0932,-0.00718,-7.7%,75%,165
+NRMSE,Gap duration,12–15 h,0.0985,-0.00525,-5.3%,69%,126
+NRMSE,Process phase,early,0.11,-0.0231,-20.9%,85%,166
+NRMSE,Process phase,exponential,0.0777,-0.00242,-3.1%,66%,132
+NRMSE,Process phase,stationary/decline,0.0851,-0.00253,-3.0%,68%,302
+NDTW,Variable,Cole–Cole α,0.0575,4.58e-04,+0.8%,46%,400
+NDTW,Variable,Dissolved CO2 (%-sat),0.0368,-7.65e-04,-2.1%,66%,600
+NDTW,Experiment,EXP001,0.0516,-0.0014,-2.7%,68%,200
+NDTW,Experiment,EXP002,0.0617,-0.0017,-2.8%,64%,200
+NDTW,Experiment,EXP004,0.0487,-0.00128,-2.6%,59%,200
+NDTW,Gap duration,3–6 h,0.0497,-0.00172,-3.5%,67%,138
+NDTW,Gap duration,6–9 h,0.0522,-0.0033,-6.3%,74%,171
+NDTW,Gap duration,9–12 h,0.0534,-4.10e-04,-0.8%,55%,165
+NDTW,Gap duration,12–15 h,0.0522,-1.67e-04,-0.3%,57%,126
+NDTW,Process phase,early,0.0652,-0.0257,-39.4%,88%,166
+NDTW,Process phase,exponential,0.0435,-6.61e-04,-1.5%,61%,132
+NDTW,Process phase,stationary/decline,0.0452,-1.66e-05,0.0%,51%,302
+FSD,Variable,Cole–Cole α,0.566,-0.00169,-0.3%,50%,400
+FSD,Variable,Dissolved CO2 (%-sat),0.302,-0.0527,-17.4%,65%,600
+FSD,Experiment,EXP001,0.505,-0.0788,-15.6%,68%,200
+FSD,Experiment,EXP002,0.5,-0.0308,-6.2%,60%,200
+FSD,Experiment,EXP004,0.518,-0.061,-11.8%,60%,200
+FSD,Gap duration,3–6 h,0.672,-0.137,-20.3%,68%,138
+FSD,Gap duration,6–9 h,0.564,-0.104,-18.5%,66%,171
+FSD,Gap duration,9–12 h,0.37,-0.0229,-6.2%,58%,165
+FSD,Gap duration,12–15 h,0.376,-0.0227,-6.0%,58%,126
+FSD,Process phase,early,0.767,-0.264,-34.4%,76%,166
+FSD,Process phase,exponential,0.4,-0.0152,-3.8%,56%,132
+FSD,Process phase,stationary/decline,0.423,-0.0224,-5.3%,58%,302

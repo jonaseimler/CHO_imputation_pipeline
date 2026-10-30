@@ -1,0 +1,54 @@
+{
+  "started": "2026-10-20 18:19:02",
+  "git_commit": "1e0106c2f0ff50ffa894ff5898b66fd7da1c1d55",
+  "optuna_version": "4.8.0",
+  "exp_name": "EXP007",
+  "gap_counts": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "n_trials": 50,
+  "n_jobs": 4,
+  "sampler": "TPESampler",
+  "sampler_seed": 42,
+  "objective": "NRMSE + NDTW (minimize)",
+  "selection": "study best trial (Objective)",
+  "search_space": {
+    "lag_buffer": {
+      "type": "int",
+      "range": [
+        5,
+        120
+      ]
+    },
+    "max_iter": {
+      "type": "int",
+      "range": [
+        10,
+        100
+      ]
+    },
+    "tol": {
+      "type": "float",
+      "log": true,
+      "range": [
+        1e-06,
+        0.01
+      ]
+    },
+    "rank": {
+      "type": "int",
+      "range": [
+        1,
+        8
+      ]
+    }
+  },
+  "fixed": {
+    "context_factor": 2,
+    "k": "L + lag_buffer",
+    "context_per_side": "context_factor * L"
+  }
+}

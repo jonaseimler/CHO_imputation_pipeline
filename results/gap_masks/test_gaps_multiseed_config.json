@@ -1,0 +1,40 @@
+{
+  "created": "2026-10-20 19:37:11",
+  "git_commit": "1e0106c2f0ff50ffa894ff5898b66fd7da1c1d55",
+  "test_experiments": [
+    "EXP001",
+    "EXP002",
+    "EXP004"
+  ],
+  "tuning_experiment_excluded": "EXP007",
+  "gap_counts": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "designs": [
+    "unfixed",
+    "fixed"
+  ],
+  "duration_h_uniform": [
+    3.0,
+    15.0
+  ],
+  "border_points": 10,
+  "min_separation_points": 10,
+  "max_gap_points": "num_rows // (n_gaps + 1)",
+  "rng": "numpy.default_rng([seed, n_gaps, design_id, exp_id]); design_id unfixed=0/fixed=1; exp_id EXP001=1, EXP002=2, EXP004=4, fixed=0"
+}

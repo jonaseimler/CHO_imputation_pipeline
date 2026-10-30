@@ -1,0 +1,7 @@
+Method,VCD RMSE (10^6 cells/mL),mu RMSE (1/h),RMSE of log10 T2,RMSE of log10 Q,relative VCD RMSE,relative IVCD error,T2 alarm disagreement,Q alarm disagreement
+Linear Baseline,0.0585,0.011,0.0765,0.0683,0.0197,0.00861,0.00581,0.00989
+Smoothed Linear Baseline,0.0581,0.0112,0.0779,0.0711,0.0205,0.00888,0.00653,0.0112
+Spline Baseline,0.122,0.0182,0.0755,0.0758,0.0417,0.0211,0.00581,0.00944
+Smoothed Spline Baseline,0.0808,0.0143,0.0745,0.0687,0.0288,0.0127,0.00442,0.00951
+FLk-NN,0.47,0.0647,0.0934,0.174,0.135,0.0765,0.00426,0.0348
+Hankel,0.0703,0.0117,0.0867,0.0843,0.0205,0.0106,0.00705,0.0181

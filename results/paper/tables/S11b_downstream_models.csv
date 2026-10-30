@@ -1,0 +1,4 @@
+Test experiment,PLS components,"PLS RMSE, calibration (10^6 cells/mL)","PLS RMSECV, leave-one-experiment-out (10^6 cells/mL)",PLS R2 per test run,PCA components,T2 limit (99%),Q limit (99%)
+EXP001,7,1.30,1.73,R01: 0.82,6,33.4,6.31
+EXP002,7,1.30,1.73,R01: 0.91,6,25.0,6.39
+EXP004,7,1.30,1.73,R01: 0.81; R02: 0.94,5,30.5,8.68

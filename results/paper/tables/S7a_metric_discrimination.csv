@@ -1,0 +1,16 @@
+Metric,Family,Primary,Kendall's W (all methods),Kendall's W (without FLk-NN),Units
+NRMSE_local,error,no,0.192,0.060,14000
+NRMSE_run,error,yes,0.192,0.060,14000
+NMAE,error,no,0.180,0.047,13976
+MAPE,error,no,0.180,0.048,13976
+AbsVarRatioDev,variance,no,0.053,0.007,13976
+FSD,variance,yes,0.032,0.006,13976
+NDTW_local,shape,no,0.151,0.081,14000
+NDTW_run,shape,yes,0.151,0.081,14000
+OneMinusSim,shape,no,0.173,0.042,14000
+NRMSD_Deriv1,shape,no,0.406,0.095,14000
+NRMSD_Deriv2,shape,no,0.372,0.001,14000
+Frob_Abs,correlation,no,0.333,0.397,2000
+Frob_Rel,correlation,no,0.333,0.397,2000
+MAD_OffDiag,correlation,yes,0.331,0.391,2000
+MaxAD_OffDiag,correlation,no,0.337,0.403,2000

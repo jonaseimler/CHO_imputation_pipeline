@@ -1,0 +1,25 @@
+Metric,Method,Mean rank,SD of rank,Seeds ranked first
+FSD,Linear Baseline,3.40,1.35,1/10
+FSD,Smoothed Linear Baseline,3.10,1.20,0/10
+FSD,Spline Baseline,3.40,1.43,1/10
+FSD,Smoothed Spline Baseline,1.30,0.67,8/10
+FSD,FLk-NN,6.00,0.00,0/10
+FSD,Hankel,3.80,1.03,0/10
+MAD of correlations,Linear Baseline,4.80,0.79,0/10
+MAD of correlations,Smoothed Linear Baseline,4.20,0.42,0/10
+MAD of correlations,Spline Baseline,2.30,0.48,0/10
+MAD of correlations,Smoothed Spline Baseline,2.80,0.63,0/10
+MAD of correlations,FLk-NN,5.90,0.32,0/10
+MAD of correlations,Hankel,1.00,0.00,10/10
+NDTW,Linear Baseline,2.00,1.25,5/10
+NDTW,Smoothed Linear Baseline,3.50,0.97,0/10
+NDTW,Spline Baseline,1.90,0.74,3/10
+NDTW,Smoothed Spline Baseline,2.70,1.06,2/10
+NDTW,FLk-NN,6.00,0.00,0/10
+NDTW,Hankel,4.90,0.32,0/10
+NRMSE,Linear Baseline,2.20,0.79,2/10
+NRMSE,Smoothed Linear Baseline,1.40,0.70,7/10
+NRMSE,Spline Baseline,4.80,0.63,0/10
+NRMSE,Smoothed Spline Baseline,3.30,0.95,0/10
+NRMSE,FLk-NN,6.00,0.00,0/10
+NRMSE,Hankel,3.30,1.16,1/10
